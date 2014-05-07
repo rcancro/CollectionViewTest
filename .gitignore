@@ -1,0 +1,6 @@
+.DS_Store
+*.xcuserdatad
+/asda.xcodeproj/project.xcworkspace/xcshareddata/
+build
+integration
+
